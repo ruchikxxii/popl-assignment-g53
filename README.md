@@ -14,6 +14,8 @@
 
 6. In conclusion, our project emerges as a pioneering endeavor in the intersection of programming languages, parallel processing, and supply chain optimization. Through meticulous analysis and innovative implementation, we seek to offer a holistic solution that transcends the limitations of conventional methodologies. This research contributes not only to the specific domains of Rust, Python, and supply chain optimization but also to the broader narrative of leveraging cutting-edge technologies for addressing efficiency challenges in complex, dynamic environments.
 
+![TURN ON INTERNET TO VIEW IMAGE](https://i.imgur.com/AIcFHur.png)
+
 # Popl Aspects
 
 ### Innovative Comparative Analysis
@@ -81,7 +83,7 @@ The CSF301 influence is particularly evident in the project's commitment to holi
 ### Innovation
 
 - This project innovatively employs Map Reduce techniques on warehouse data, addressing the scarcity of comprehensive approaches that resonate with the scalability and efficiency demands of modern supply chains.
-
+![alt text](http://url/to/img.png)
 ### Significance
 
 - The project's application of Map Reduce stands out as a distinctive feature, showcasing its adaptability and relevance in the context of contemporary warehousing challenges.
