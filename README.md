@@ -1,5 +1,5 @@
 # Optimizing Supply Chain Efficiency: A Comparative Analysis of Parallel Multithreading Merge Sort in Rust and Python, Followed by Map Reduce on Warehouse Data for Enhanced City-Wise Shipping
-
+![title img](https://i.imgur.com/FrIEzt0.jpg)
 # Abstract
 
 1. In an era where supply chain optimization is paramount for organizational success, this project adopts a comprehensive strategy to elevate efficiency levels. Employing a multi-faceted approach, we delve into the intricacies of parallel multithreading merge sort implementations in two distinct programming languages, Rust and Python. The subsequent integration of a Map Reduce technique on warehouse data is designed to revolutionize the efficiency of city-wise shipping operations.
