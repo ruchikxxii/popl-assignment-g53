@@ -83,7 +83,7 @@ The CSF301 influence is particularly evident in the project's commitment to holi
 ### Innovation
 
 - This project innovatively employs Map Reduce techniques on warehouse data, addressing the scarcity of comprehensive approaches that resonate with the scalability and efficiency demands of modern supply chains.
-![alt text](http://url/to/img.png)
+
 ### Significance
 
 - The project's application of Map Reduce stands out as a distinctive feature, showcasing its adaptability and relevance in the context of contemporary warehousing challenges.
@@ -163,6 +163,10 @@ The project's approach prioritizes performance-driven decision making by evaluat
 ## Monitoring and Logging
 
 # Results
+![alt text](https://i.imgur.com/8O7sOXe.jpg)
+![alt text](https://i.imgur.com/nAKcUYo.jpg)
+![alt text](https://i.imgur.com/PoObifG.jpg)
+
 
 # Potential for Future Work
 
