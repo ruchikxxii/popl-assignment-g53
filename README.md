@@ -1,3 +1,19 @@
+# How to run the code
+```bash
+python mapReduce.py
+```
+```bash
+python multi2Merge.py
+```
+```bash
+rustc mapReduce.rs
+./mapReduce
+```
+```bash
+rustc multiSort2.rs
+./multiSort2
+```
+
 # Optimizing Supply Chain Efficiency: A Comparative Analysis of Parallel Multithreading Merge Sort in Rust and Python, Followed by Map Reduce on Warehouse Data for Enhanced City-Wise Shipping
 ![title img](https://i.imgur.com/FrIEzt0.jpg)
 # Abstract
