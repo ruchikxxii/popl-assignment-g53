@@ -222,5 +222,5 @@ The project's approach prioritizes performance-driven decision making by evaluat
 - Explore opportunities for collaboration with academic institutions or research organizations to contribute to the broader knowledge base in logistics, programming languages, and parallel processing.
 - Engage in research projects that can extend the project's impact and relevance within the academic and industry communities.
 
-#Source Citation
+# Source Citation
 Yang, Alexandra. "Approaches to the Parallelization of Merge Sort in Python." Journal of Computational Methods in Science and Engineering, vol. 15, no. 3, 20XX, pp. 123-145. 
