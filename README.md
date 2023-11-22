@@ -131,6 +131,7 @@ Conventional solutions often compartmentalize supply chain optimization into iso
 The project's approach prioritizes performance-driven decision making by evaluating and comparing the efficiency of Rust and Python in a real-world, parallel computing scenario. This performance-centric perspective introduces a novel criterion for decision-making in selecting programming languages for data-intensive tasks, steering away from traditional, generic language preferences.
 
 # Software Architecture Details
+![alt text](https://i.imgur.com/LvULuh8.png)
 
 ## Client-Server Architecture
 - Not explicitly mentioned; architecture appears modular and task-specific.
