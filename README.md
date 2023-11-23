@@ -160,6 +160,16 @@ The project's approach prioritizes performance-driven decision making by evaluat
 ## Database Involvement
 - Database mentioned; potential integration within Map Reduce module or elsewhere based on specific requirements.
 
+## Monitoring and Logging
+
+# Results
+![alt text](https://i.imgur.com/8O7sOXe.jpg)
+![alt text](https://i.imgur.com/nAKcUYo.jpg)
+![alt text](https://i.imgur.com/PoObifG.jpg)
+![alt text](https://i.imgur.com/A3E1RVE.jpg)
+
+# Potential for Future Work
+
 ## Parallel Multithreading Testing
 - Local unit testing within each language module for correctness.
 - Remote testing for evaluating performance and behavior in a distributed environment.
@@ -176,16 +186,6 @@ The project's approach prioritizes performance-driven decision making by evaluat
 - Scalability considerations hinted through distributed computing in the Map Reduce module.
 - Deployment infrastructure and parallel processing strategies impact scalability.
 
-## Monitoring and Logging
-
-# Results
-![alt text](https://i.imgur.com/8O7sOXe.jpg)
-![alt text](https://i.imgur.com/nAKcUYo.jpg)
-![alt text](https://i.imgur.com/PoObifG.jpg)
-![alt text](https://i.imgur.com/A3E1RVE.jpg)
-
-# Potential for Future Work
-
 ## Scalability and Performance Optimization
 - Investigate and implement strategies for further scalability to handle larger datasets and increasing order volumes.
 - Explore optimizations in algorithms and data processing techniques to enhance overall performance in both sorting and map-reduce operations.
@@ -201,10 +201,6 @@ The project's approach prioritizes performance-driven decision making by evaluat
 ## Enhanced User Interface and Visualization
 - Develop a more sophisticated and user-friendly interface for warehouse managers and logistics professionals.
 - Implement data visualization tools to provide intuitive insights into order trends, inventory status, and logistics performance metrics.
-
-## Integration with IoT Devices
-- Investigate the integration of Internet of Things (IoT) devices for real-time tracking of inventory, monitoring environmental conditions, and optimizing supply chain visibility.
-- Explore how IoT data can be seamlessly incorporated into the existing logistics solution for more accurate decision-making.
 
 ## Security and Compliance
 - Enhance the security measures of the logistics solution, especially when dealing with sensitive customer and order information.
